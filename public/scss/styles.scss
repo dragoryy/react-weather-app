@@ -1,0 +1,15 @@
+// Base
+
+@import "./base/variables";
+@import "./base/reset";
+@import "./base/fonts";
+@import "./base/base";
+
+// Blocks
+
+@import "./blocks/header";
+@import "./blocks/main";
+@import "./blocks/weather";
+@import "./blocks/widgets";
+@import "./blocks/loader";
+@import "./blocks/map";

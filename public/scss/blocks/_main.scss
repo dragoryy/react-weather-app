@@ -1,0 +1,9 @@
+.main {
+  margin-top: 70px;
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    gap: 90px;
+  }
+  margin-bottom: 150px;
+}

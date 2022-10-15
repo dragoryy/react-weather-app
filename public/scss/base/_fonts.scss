@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Circe";
+  src: local("Circe-Light"), local("Circe-Light"),
+    url("/fonts/Circe-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circe Extra";
+  src: local("Circe Extra Bold"), local("Circe-ExtraBold"),
+    url("/fonts/Circe-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circe";
+  src: local("Circe-Thin"), local("Circe-Thin"),
+    url("/fonts/Circe-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circe";
+  src: local("Circe"), local("Circe-Regular"),
+    url("/fonts/Circe-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circe";
+  src: local("Circe Bold"), local("Circe-Bold"),
+    url("/fonts/Circe-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("/SF Pro Display Medium"), local("SFProDisplay-Medium"),
+    url("/fonts/SFProDisplay-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
